@@ -3,3 +3,8 @@
 //
 
 #include "new.h"
+
+int main()
+{
+
+}
